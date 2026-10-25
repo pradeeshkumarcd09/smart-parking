@@ -1,0 +1,7 @@
+{
+  "test_loss": 0.010796082206070423,
+  "test_accuracy": 0.9968220591545105,
+  "test_precision_positive_class_free": 0.9968000054359436,
+  "test_recall_positive_class_free": 0.9936203956604004,
+  "test_images": 1888
+}
